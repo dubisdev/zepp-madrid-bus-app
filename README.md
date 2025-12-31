@@ -11,7 +11,7 @@
 <h1 align="center">Madrid Bus for Zepp OS</h1>
 
 <p align="center">
-  <strong>🚌 Bus arrival times for Madrid city in your wrist</strong>
+  <strong>🚌 Madrid city bus arrival times on your wrist</strong>
   <br/>
   <i>Built with ❤️‍🔥 by <a href="https://github.com/dubisdev">@dubisdev</a></i>
 </p>
