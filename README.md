@@ -3,7 +3,7 @@
     <img
         width="128px"
         alt="Madrid Bus app logo"
-        src="./assets/icon.png"
+        src="./icon.png"
     />
   </a>
 </p>
