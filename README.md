@@ -28,10 +28,34 @@
 ## Screenshots
 
 <p align="center">
-    <img
-        alt="KoS gif"
-        src="./assets/animation.gif"
-        width="500px" />
+  <img
+        alt="Zepp Madrid Bus - Home - Rounded"
+        src="./assets/cap3_sized_r.png"
+        width="260px" />
+  <img
+        alt="Zepp Madrid Bus - Bus Stop View - Rounded"
+        src="./assets/cap2_sized_r.png"
+        width="260px" />
+  <img
+        alt="Zepp Madrid Bus - Stop Type Selector - Rounded"
+        src="./assets/cap1_sized_r.png"
+        width="260px" />
+
+
+<p align="center">
+  <img
+        alt="Zepp Madrid Bus - Home - Squared"
+        src="./assets/square1.png"
+        width="260px" />
+  <img
+        alt="Zepp Madrid Bus - Bus Stop View - Rounded"
+        src="./assets/square3.png"
+        width="260px" />
+  <img
+        alt="Zepp Madrid Bus - Stop Type Selector - Squared"
+        src="./assets/square2.png"
+        width="260px" />
+
 
 ## 📄 Privacy Policy
 
