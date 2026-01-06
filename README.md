@@ -64,5 +64,5 @@
 
 ## ⚖️ License
 
-MIT © David Jiménez 2025
+MIT © David Jiménez 2026
 
