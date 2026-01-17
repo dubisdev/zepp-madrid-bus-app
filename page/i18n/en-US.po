@@ -1,0 +1,35 @@
+msgid "select-stop-type"
+msgstr "Select Stop Type"
+
+msgid "select-stop-code"
+msgstr "Select Bus Stop Code"
+
+msgid "emt"
+msgstr "EMT"
+
+msgid "crtm"
+msgstr "Intercity"
+
+msgid "add-to-favourites"
+msgstr "Save as Favourite"
+
+msgid "remove-favourite"
+msgstr "Remove Favourite"
+
+msgid "favourites-full"
+msgstr "Favourites full"
+
+msgid "stop-not-found"
+msgstr "Stop Not Found"
+
+msgid "network-error"
+msgstr "Network Error"
+
+msgid "side-service-not-available"
+msgstr "Couldn't reach internet. Please check the wereable is connected to your phone and your phone has internet access."
+
+msgid "your-bus-stops"
+msgstr "Your Bus Stops"
+
+msgid "load"
+msgstr "Loading"

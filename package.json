@@ -1,0 +1,19 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@zeppos/device-types": "3.0.1"
+  },
+  "dependencies": {
+    "@dubisdev/crtm-api": "0.4.1",
+    "@silver-zepp/autogui": "1.2.9",
+    "@zeppos/zml": "0.0.41"
+  }
+}

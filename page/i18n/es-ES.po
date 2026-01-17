@@ -1,0 +1,35 @@
+msgid "select-stop-type"
+msgstr "Tipo de Parada"
+
+msgid "select-stop-code"
+msgstr "Código de parada"
+
+msgid "emt"
+msgstr "EMT"
+
+msgid "crtm"
+msgstr "Interurbanos"
+
+msgid "add-to-favourites"
+msgstr "Guardar Favorito"
+
+msgid "remove-favourite"
+msgstr "Eliminar Favorito"
+
+msgid "favourites-full"
+msgstr "Favoritos Llenos"
+
+msgid "stop-not-found"
+msgstr "Parada no Encontrada"
+
+msgid "network-error"
+msgstr "Error de red"
+
+msgid "side-service-not-available"
+msgstr "No se pudo conectar a internet. Por favor comprueba que tu reloj está conectado a tu teléfono y que tu teléfono tiene internet."
+
+msgid "your-bus-stops"
+msgstr "Paradas Favoritas"
+
+msgid "load"
+msgstr "Cargando"

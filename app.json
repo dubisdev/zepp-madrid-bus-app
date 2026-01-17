@@ -1,0 +1,82 @@
+{
+  "configVersion": "v3",
+  "app": {
+    "appId": 1100812,
+    "appName": "Madrid Bus",
+    "appType": "app",
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    },
+    "icon": "icon.png",
+    "vender": "dubis.dev",
+    "description": "Madrid bus arrival times on your wrist"
+  },
+  "permissions": [
+    "data:os.device.info",
+    "device:os.local_storage"
+  ],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "4.0",
+      "target": "4.0",
+      "minVersion": "4.0"
+    }
+  },
+  "targets": {
+    "common": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/home/home-page",
+            "page/type-selector",
+            "page/bus-stop-code-selector",
+            "page/stop-display/stop-display",
+            "page/error-displayer/error-displayer"
+          ]
+        },
+        "secondary-widget": {
+          "widgets": [
+            {
+              "path": "secondary-widget/widget",
+              "icon": "icon.png",
+              "runtime": {
+                "type": "js"
+              },
+              "name": "Favourite Stops",
+              "i18n": {
+                "en-US": {
+                  "name": "Favourite Stops"
+                },
+                "es-ES": {
+                  "name": "Paradas Favoritas"
+                }
+              }
+            }
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        }
+      },
+      "platforms": [
+        {
+          "st": "r"
+        },
+        {
+          "st": "s"
+        }
+      ]
+    }
+  },
+  "i18n": {
+    "en-US": {
+      "appName": "Madrid Bus"
+    },
+    "es-ES": {
+      "appName": "Madrid Bus",
+      "description": "Tiempos de espera de buses para Madrid en tu muñeca"
+    }
+  },
+  "defaultLanguage": "en-US"
+}
