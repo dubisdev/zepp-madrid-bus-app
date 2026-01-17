@@ -1,13 +1,14 @@
 {
-  "name": "fetch",
+  "name": "@dubisdev/zepp-app-madrid-bus",
   "version": "1.0.0",
-  "description": "",
+  "description": "Madrid bus arrival times on your wrist",
   "main": "app.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "zeus dev"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "David Jiménez <dubisdev@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@zeppos/device-types": "3.0.1"
   },
